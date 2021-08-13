@@ -1,0 +1,15 @@
+/Users/fumi/Desktop/C#Practice0812/Sample401/bin/Debug/net5.0/Sample401.deps.json
+/Users/fumi/Desktop/C#Practice0812/Sample401/bin/Debug/net5.0/Sample401.runtimeconfig.json
+/Users/fumi/Desktop/C#Practice0812/Sample401/bin/Debug/net5.0/Sample401.runtimeconfig.dev.json
+/Users/fumi/Desktop/C#Practice0812/Sample401/bin/Debug/net5.0/Sample401.dll
+/Users/fumi/Desktop/C#Practice0812/Sample401/bin/Debug/net5.0/ref/Sample401.dll
+/Users/fumi/Desktop/C#Practice0812/Sample401/bin/Debug/net5.0/Sample401.pdb
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.csprojAssemblyReference.cache
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.AssemblyInfoInputs.cache
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.AssemblyInfo.cs
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.csproj.CoreCompileInputs.cache
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.dll
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/ref/Sample401.dll
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.pdb
+/Users/fumi/Desktop/C#Practice0812/Sample401/obj/Debug/net5.0/Sample401.genruntimeconfig.cache
