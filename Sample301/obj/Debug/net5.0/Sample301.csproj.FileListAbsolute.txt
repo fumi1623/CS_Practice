@@ -1,0 +1,15 @@
+/Users/fumi/Desktop/C#Practice0812/Sample301/bin/Debug/net5.0/Sample301.deps.json
+/Users/fumi/Desktop/C#Practice0812/Sample301/bin/Debug/net5.0/Sample301.runtimeconfig.json
+/Users/fumi/Desktop/C#Practice0812/Sample301/bin/Debug/net5.0/Sample301.runtimeconfig.dev.json
+/Users/fumi/Desktop/C#Practice0812/Sample301/bin/Debug/net5.0/Sample301.dll
+/Users/fumi/Desktop/C#Practice0812/Sample301/bin/Debug/net5.0/ref/Sample301.dll
+/Users/fumi/Desktop/C#Practice0812/Sample301/bin/Debug/net5.0/Sample301.pdb
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.csprojAssemblyReference.cache
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.AssemblyInfoInputs.cache
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.AssemblyInfo.cs
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.csproj.CoreCompileInputs.cache
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.dll
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/ref/Sample301.dll
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.pdb
+/Users/fumi/Desktop/C#Practice0812/Sample301/obj/Debug/net5.0/Sample301.genruntimeconfig.cache
